@@ -1,0 +1,19 @@
+C:\Kodila\nauka-gita\index.html
+   2:2   error  <html> element must have <head> as content               element-required-content
+   3:6   error  <link> element is not permitted as content under <html>  element-permitted-content
+   4:6   error  <link> element is not permitted as content under <html>  element-permitted-content
+   5:6   error  <link> element is not permitted as content under <html>  element-permitted-content
+   6:6   error  <link> element is not permitted as content under <html>  element-permitted-content
+  20:47  error  Trailing whitespace                                      no-trailing-whitespace
+  22:1   error  Trailing whitespace                                      no-trailing-whitespace
+  35:1   error  Trailing whitespace                                      no-trailing-whitespace
+  46:36  error  Trailing whitespace                                      no-trailing-whitespace
+  48:1   error  Trailing whitespace                                      no-trailing-whitespace
+
+✖ 10 problems (10 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/element-required-content.html
+  https://html-validate.org/rules/element-permitted-content.html
+  https://html-validate.org/rules/no-trailing-whitespace.html
+
