@@ -1,1 +1,22 @@
-/*# sourceMappingURL=style.css.map */
+.main {
+  font-family: "Josefin Sans", sans-serif;
+}
+.main h1 {
+  text-align: center;
+}
+.main .autor {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.main .raw {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.main .raw .p {
+  position: absolute;
+  left: 0;
+}/*# sourceMappingURL=style.css.map */
